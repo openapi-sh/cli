@@ -1,0 +1,15 @@
+version = "0.1"
+language = "rust"
+
+[[template]]
+input = "model"
+iteration = "components.schemas"
+output = "src/models/{entity}.rs"
+
+[[template]]
+input = "models"
+output = "src/models/mod.rs"
+
+[[template]]
+input = "router"
+output = "src/openapi.rs"

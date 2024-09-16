@@ -1,0 +1,3 @@
+# OpenAPI Manager
+
+The OpenAPI Manager is a CLI tool aimed to bring flexible and fast API development focused around an OpenAPI schema. The CLI provides an easy-to-use interface ...
